@@ -1,0 +1,60 @@
+
+
+        /*
+        ByAndPostnummer byAndPostnummer = new ByAndPostnummer();
+
+        byAndPostnummer.readFile();
+
+
+
+
+        for (int ssn : byAndPostnummer.postNumre.keySet()) {
+            String byByBy = byAndPostnummer.postNumre.get(ssn);
+            System.out.println(ssn + " " + byByBy);
+
+
+
+
+        }
+    }
+
+
+}
+
+        //System.out.println(byAndPostnummer.postNumre);
+        //for (int i = 0; i < byAndPostnummer.postNumre.size(); i++)
+          //  System.out.println(byAndPostnummer.postNumre.get(i));
+
+
+
+
+       /* HashMap<Integer, String> newHasher = new HashMap<>();
+
+        newHasher.put(112, "Marcus");
+        newHasher.put(113, "Jacob");
+        newHasher.put(114, "Morten");
+        newHasher.put(115, "Magnus");
+        newHasher.put(116, "Janus");
+
+        Set<Integer> intsss = newHasher.keySet();
+
+
+        //System.out.println(newHasher);
+        for (int ssn : intsss){
+            System.out.println(ssn);
+        }
+
+        Collection<String> namesss = newHasher.values();
+
+        for (String namedd : namesss){
+            System.out.println(namedd);
+
+        }
+        for (int ssn : newHasher.keySet()){
+            String namefff = newHasher.get(ssn);
+            System.out.println(namefff + " " + ssn);
+        }
+
+
+    }
+}*/
