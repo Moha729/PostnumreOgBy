@@ -1,6 +1,8 @@
 public class Buttons {
 
-    //vi skal have stor knap og lille knap
+    //Denne her klasse er en prototype som jeg bruger ind i System.out.print
+    //så jeg taster instancerings navnet på denne klasse efterfulgte big- small- eller doubleButton metoden
+    //og overdrager en tekst som parameter
 
     private String margeTop;
     private String margeCenter;

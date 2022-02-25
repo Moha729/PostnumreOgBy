@@ -58,3 +58,12 @@
 
     }
 }*/
+
+        /*/for (int ssn : postNumre.keySet()) {
+          //  String byByBy = postNumre.get(ssn);
+           // System.out.println(ssn + " " + byByBy);}
+        for (int i = 0; i < postNumre.size(); i++){
+            if (postNumre.containsValue(city)){
+                return postNumre.values(city);
+            }
+        }*/
