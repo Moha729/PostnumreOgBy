@@ -17,7 +17,7 @@ public class ByAndPostnummer {
         Set<Map.Entry<Integer, String>> entries = postNumre.entrySet();
         for( Map.Entry<Integer, String> entry : entries ){
 
-            if(entry.getValue().equals(city)){
+            if(entry.getValue().equalsIgnoreCase(city)){
                 //System.out.println("Key for value " + city + " is: " + entry.getKey());
                 return entry.getKey();
             }
